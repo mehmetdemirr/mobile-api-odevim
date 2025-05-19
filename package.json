@@ -2,9 +2,9 @@
     "private": true,
     "type": "module",
    "scripts": {
-  "dev": "vite --host 0.0.0.0",
-  "build": "vite build"
-},
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build"
+    },
     "devDependencies": {
         "@tailwindcss/vite": "^4.0.0",
         "axios": "^1.8.2",
